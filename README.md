@@ -14,4 +14,6 @@
 
 ## EXTRA
 
-rm -rf dist (eliminar una carpeta desde comando)
+- rm -rf dist (eliminar una carpeta desde comando)
+- ./ significa que se encuentra en el mismo nivel
+-
